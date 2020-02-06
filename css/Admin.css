@@ -1,0 +1,35 @@
+
+.div {
+    background-color: silver;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom: 20px;
+    width:75%;
+    border: 2px solid;
+    -webkit-box-shadow: 2px 2px 3px 0px rgba(64,64,64,1);
+    -moz-box-shadow: 2px 2px 3px 0px rgba(64,64,64,1);
+    box-shadow: 2px 2px 3px 0px rgba(64,64,64,1);
+}
+
+.pdf {
+    width: 200px;
+    height:40px;
+}
+
+.form{
+    margin-top:20px
+}
+
+.code{
+    font-size: 16px;
+}
+
+button {
+    background-color: transparent;
+    border: 2px solid;
+    -webkit-box-shadow: 2px 2px 3px 0px rgba(64,64,64,1);
+    -moz-box-shadow: 2px 2px 3px 0px rgba(64,64,64,1);
+    box-shadow: 2px 2px 3px 0px rgba(64,64,64,1);
+    text-align:center;
+}
